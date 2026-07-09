@@ -38,16 +38,6 @@ The experiments in this repository illustrate three central properties of PPS:
 2. Rank-controlled observable geometry
 3. Operator-consistent representation transfer
 
-## Included
-
-- Core quadratic observable and operator utilities
-- Kernel/range decomposition
-- Effective numerical rank
-- Kernel-invariance demonstration
-- Rank-controlled spectral observability simulations
-- PPS-aware knowledge distillation experiments
-- Observability, attribution, and causal-influence experiments
-
 ## Repository Structure
 
 ```text
@@ -110,7 +100,7 @@ Directly verifies that perturbations confined to \(\ker(\Pi)\) do not change the
 
 `figure7_rank_controlled_observability.py`
 
-Examines how \(\operatorname{rank}(\Pi)\) controls the effective observable dimension, predictive accuracy, attribution stability, and spectral geometry.
+Examines how \(\operatorname{rank}(\Pi)\) controls the effective observable dimension, predictive accuracy, attribution stability, and spectral observability structure.
 
 ## Requirements
 
