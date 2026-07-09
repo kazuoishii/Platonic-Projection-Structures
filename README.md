@@ -154,4 +154,8 @@ If you use this code or the PPS framework, please cite:
 }
 ```
 
+## License
+
+This software is released under the MIT License. See `LICENSE` for details.
+
 GitHub's "Cite this repository" function is enabled through `CITATION.cff`.
