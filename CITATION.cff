@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Platonic Projection Structures"
+message: "If you use this software, please cite the associated paper."
+type: software
+authors:
+  - family-names: Ishii
+    given-names: Kazuo
+  - family-names: Gautam
+    given-names: Bishnu Prasad
+  - family-names: Wu
+    given-names: Jieling
+  - family-names: Saher
+    given-names: Javaid
+preferred-citation:
+  type: article
+  title: "Platonic Projection Structures: Operator-Induced Observability in Representation Learning"
+  authors:
+    - family-names: Ishii
+      given-names: Kazuo
+    - family-names: Gautam
+      given-names: Bishnu Prasad
+    - family-names: Wu
+      given-names: Jieling
+    - family-names: Saher
+      given-names: Javaid
+  journal: Entropy
+  volume: 28
+  issue: 7
+  year: 2026
+  doi: 10.3390/e28070768
