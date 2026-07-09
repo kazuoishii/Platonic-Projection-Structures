@@ -38,6 +38,16 @@ The experiments in this repository illustrate three central properties of PPS:
 2. Rank-controlled observable geometry
 3. Operator-consistent representation transfer
 
+## Included
+
+- Core quadratic observable and operator utilities
+- Kernel/range decomposition
+- Effective numerical rank
+- Kernel-invariance demonstration
+- Rank-controlled spectral observability simulations
+- PPS-aware knowledge distillation experiments
+- Observability, attribution, and causal-influence experiments
+
 ## Repository Structure
 
 ```text
