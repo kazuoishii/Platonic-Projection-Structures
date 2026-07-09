@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Platonic Projection Structures"
+title: "Platonic Projection Structures (PPS)"
 message: "If you use this software, please cite the associated paper."
 type: software
 authors:
@@ -11,6 +11,7 @@ authors:
     given-names: Jieling
   - family-names: Saher
     given-names: Javaid
+
 preferred-citation:
   type: article
   title: "Platonic Projection Structures: Operator-Induced Observability in Representation Learning"
