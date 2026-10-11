@@ -4,7 +4,7 @@ Official code repository for:
 
 **Platonic Projection Structures: Operator-Induced Observability in Representation Learning**
 
-Kazuo Ishii, Bishnu Prasad Gautam, Jieling Wu, and Javaid Saher
+Kazuo Ishii, Bishnu Prasad Gautam, Jieling Wu, and Saher Javaid
 
 Published in *Entropy* (2026), 28(7), 768.
 
@@ -144,7 +144,7 @@ If you use this code or the PPS framework, please cite:
 ```bibtex
 @article{ishii2026pps,
   title={Platonic Projection Structures: Operator-Induced Observability in Representation Learning},
-  author={Ishii, Kazuo and Gautam, Bishnu Prasad and Wu, Jieling and Saher, Javaid},
+  author={Ishii, Kazuo and Gautam, Bishnu Prasad and Wu, Jieling and Javaid, Saher},
   journal={Entropy},
   volume={28},
   number={7},
