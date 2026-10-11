@@ -9,8 +9,8 @@ authors:
     given-names: Bishnu Prasad
   - family-names: Wu
     given-names: Jieling
-  - family-names: Saher
-    given-names: Javaid
+  - family-names: Javaid
+    given-names: Saher
 
 preferred-citation:
   type: article
@@ -22,8 +22,8 @@ preferred-citation:
       given-names: Bishnu Prasad
     - family-names: Wu
       given-names: Jieling
-    - family-names: Saher
-      given-names: Javaid
+    - family-names: Javaid
+      given-names: Saher
   journal: Entropy
   volume: 28
   issue: 7
